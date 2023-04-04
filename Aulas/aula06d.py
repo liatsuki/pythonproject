@@ -28,4 +28,4 @@ n = input('Digite um valor: ')
 print(n.isalnum())
 
 # isupper - é para letras maiusculas
-# islower - é para letras minusculas
+# islower - é para letras minusculasss
