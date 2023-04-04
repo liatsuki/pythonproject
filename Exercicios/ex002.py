@@ -1,12 +1,17 @@
 # Exercicio - #002 - Respondendo ao Usuário
 
+
+
 # Desafio 002
 # Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas
 nome=input('Digite seu nome: ')
 print('É um prazer te conhecer', nome,'!')
 
+# Resolução do Guanabara
 nome=input('Digite seu nome: ')
 print('É um prazer te conhecer, {}!'.format(nome))
+
+
 
 # Ambos os códigos pedem para o usuário digitar o seu nome e, em seguida,
 # imprimem uma mensagem de boas-vindas na tela com o nome que foi digitado.
