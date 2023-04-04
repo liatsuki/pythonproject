@@ -18,3 +18,17 @@ print('É um prazer te conhecer, {}!'.format(nome))
 # A vantagem do segundo código é que ele é mais flexível e permite inserir várias variáveis
 # e formatar mensagens mais complexas de uma maneira mais fácil de ler e entender.
 # Mas, se você está escrevendo uma mensagem simples, o primeiro código pode ser mais fácil de usar.
+
+
+# No primeiro código, a mensagem é criada como uma string que contém três partes separadas por vírgulas:
+# a primeira parte é a string "É um prazer te conhecer", a segunda parte é a variável nome,
+# que é definida a partir da entrada do usuário, e a terceira parte é a string final, que inclui um ponto de exclamação.
+
+# No segundo código, a mensagem é criada como uma string única que contém apenas uma parte,
+# mas usa o método format() para inserir o valor da variável nome no local correto da string.
+# A string inclui um par de chaves {} onde o valor da variável nome deve ser inserido.
+
+# A segunda forma é geralmente preferível porque torna mais fácil alterar a mensagem de saudação
+# e também permite formatar a saída de outras formas. Por exemplo, poderíamos facilmente adicionar mais informações,
+# como idade ou localização do usuário, usando o mesmo método format(). Além disso,
+# o método format() permite que você especifique o tipo de formatação, o que pode ser útil em algumas situações.
