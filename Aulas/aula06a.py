@@ -22,3 +22,10 @@ print('A soma vale',s)
 # float() - número reais ou números de pontos flutuante (ex: 4.5  0.076  -15.223  7.0)
 # bool() - valores lógicos ou bolivianos (só aceita valor verdadeiro "True" ou valor falso "False")
 # str() - valores carater ou strings (ex: 'Olá' '7.5' - é string porque está entre aspas; pode ter uma string vazia - '')
+
+
+# Outra maneira:
+n1 = int(input('Digite um número:'))
+n2 = int(input('Digite um número:'))
+s = n1+n2
+print('A soma vale {}'.format(s))
