@@ -15,3 +15,5 @@ Só para não me esquecer porque tenho alzheimer:
 3. ***$ git status*** - verificar outra vez
 4. ***$ git commit -m “nome da versão”*** - o que foi modificado
 5. ***$ git push*** - enviar as modificações pro controlo de versão
+
+teste vs
