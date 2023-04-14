@@ -17,3 +17,4 @@ Só para não me esquecer porque tenho alzheimer:
 5. ***$ git push*** - enviar as modificações pro controlo de versão
 
 teste vs
+teste 1
